@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LudoKip
+- 👋 Hi,
 - 👀 I’m interested
 - 🌱 I’m currently
 - 💞️ I’m looking
